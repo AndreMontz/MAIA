@@ -1,1 +1,1 @@
-window.MAIA_PUBLIC_CONFIG = {"transport":"poll","apiUrl":"https://contacted-subscribe-baby-palace.trycloudflare.com/api/v1"};
+window.MAIA_PUBLIC_CONFIG = {"transport":"sse","apiUrl":"https://maia-andremontz-api.northcentralus.cloudapp.azure.com/api/v1"};
